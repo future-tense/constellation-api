@@ -1,0 +1,18 @@
+{
+  "name": "constellation-api",
+  "version": "1.0.0",
+  "description": "Constellation is a signature aggregation hub for Stellar, with an open API.",
+  "main": "constellation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "eventsource": "^0.2.2"
+  },
+  "devDependencies": {
+    "stellar-sdk": "^0.7.3"
+  }
+}
